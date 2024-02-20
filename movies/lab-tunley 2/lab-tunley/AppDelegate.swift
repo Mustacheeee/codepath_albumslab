@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  movieTable1
+//  lab-tunley
 //
-//  Created by 趙藝鑫 on 1/28/24.
+//  Created by Charlie Hieger on 12/1/22.
 //
 
 import UIKit
